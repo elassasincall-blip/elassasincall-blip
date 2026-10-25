@@ -23,6 +23,19 @@ ORVEXIA started on a collection route: the first products solve problems I saw f
 
 ## Live today
 
+<table>
+<tr>
+<td width="50%"><a href="https://bcbazone.com"><img src="assets/screens/aba-professionals.webp" alt="ORVEXIA ABA Professionals — desktop and mobile" /></a><br/><b>ORVEXIA ABA Professionals</b> · <a href="https://bcbazone.com">bcbazone.com</a></td>
+<td width="50%"><a href="https://orvexia.store"><img src="assets/screens/store.webp" alt="ORVEXIA Store — desktop and mobile" /></a><br/><b>ORVEXIA Store</b> · <a href="https://orvexia.store">orvexia.store</a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://orvexiatech.com"><img src="assets/screens/orvexiatech.webp" alt="ORVEXIA Technologies corporate site — desktop and mobile" /></a><br/><b>ORVEXIA Technologies</b> · <a href="https://orvexiatech.com">orvexiatech.com</a></td>
+<td width="50%"><a href="https://orvexia.dev"><img src="assets/screens/portafolio.webp" alt="Ernys Nápoles portfolio — desktop and mobile" /></a><br/><b>Portfolio</b> · <a href="https://orvexia.dev">orvexia.dev</a></td>
+</tr>
+</table>
+
+<sub>Real screenshots of the live sites, October 2026.</sub>
+
 | | Product | What it is |
 |---|---|---|
 | <img src="https://orvexiatech.com/logos/aba-icon.webp" width="36" alt="" /> | **[ORVEXIA ABA Professionals](https://bcbazone.com)** | Study platform for the RBT, BCaBA and BCBA certification exams. One-time purchases, never a subscription. |
