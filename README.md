@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://orvexiatech.com/favicon.png" width="88" alt="ORVEXIA logo" />
+<img src="assets/ernys.jpg" width="150" alt="Ernys Nápoles Favier" style="border-radius:50%" />
 
 # Ernys Nápoles Favier
 
