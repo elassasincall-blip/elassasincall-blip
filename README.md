@@ -39,7 +39,7 @@ ORVEXIA started on a collection route: the first products solve problems I saw f
 | | Product | What it is |
 |---|---|---|
 | <img src="https://orvexiatech.com/logos/aba-icon.webp" width="36" alt="" /> | **[ORVEXIA ABA Professionals](https://bcbazone.com)** | Study platform for the RBT, BCaBA and BCBA certification exams. One-time purchases, never a subscription. |
-| <img src="https://orvexiatech.com/logos/store-icon.webp" width="36" alt="" /> | **[ORVEXIA Store](https://orvexia.store)** | E-commerce storefront with hundreds of products. |
+| <img src="https://orvexiatech.com/logos/store-icon.webp" width="36" alt="" /> | **[ORVEXIA Store](https://orvexia.store)** | E-commerce marketplace with thousands of products across many categories. |
 | <img src="https://orvexiatech.com/logos/portfolios-icon.webp" width="36" alt="" /> | **[ORVEXIA Portafolios](https://orvexia.dev)** | My portfolio: projects, journey, blog and certifications. |
 | <img src="https://orvexiatech.com/logos/explica-icon.webp" width="36" alt="" /> | **[ORVEXIA Explica](https://orvexiatech.com/explica)** | Short videos that explain technology clearly, presented by the ORVEXIA Boy. |
 | <img src="https://orvexiatech.com/logos/boy-icon.webp" width="36" alt="" /> | **[ORVEXIA Boy](https://orvexiatech.com/boy)** | The brand character who explains technology across ORVEXIA. |
@@ -116,7 +116,7 @@ Full catalog with details: **[orvexiatech.com/products](https://orvexiatech.com/
 
 ## Certifications
 
-**Anthropic — 20 certificates of completion**
+**Anthropic — 21 certificates of completion**
 
 | Building with Claude | AI Fluency |
 |---|---|
@@ -130,10 +130,8 @@ Full catalog with details: **[orvexiatech.com/products](https://orvexiatech.com/
 | Introduction to Claude Cowork | Teaching the AI Fluency Framework |
 | Introduction to Model Context Protocol | |
 | Model Context Protocol: Advanced Topics | |
-| Introduction to Agent Skills | |
+| Introduction to Agent Skills | AI Fluency for K-12 Educators (with Teach For America) |
 | Introduction to Subagents | |
-
-**Transportation & safety:** CDL Class A with Tanker endorsement · OSHA safety · Forklift operation
 
 See every certificate on my portfolio: **[orvexia.dev → Achievements](https://orvexia.dev/#achievements)**
 
